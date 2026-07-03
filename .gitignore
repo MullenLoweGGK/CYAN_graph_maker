@@ -1,0 +1,44 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+buildenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# macOS app/export artifacts
+*.app
+*.dmg
+
+# Generated exports
+*.png
+*.jpg
+*.jpeg
+*.webp
+exports/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+grafy.py
